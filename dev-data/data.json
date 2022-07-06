@@ -1,0 +1,53 @@
+[
+  {
+    "id": 0,
+    "productName": "FRESH HOTDOGS🤤!!",
+    "image": "🌭",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🌭",
+    "price": "6.50",
+    "organic": true,
+    "description": "A 'HOT' and 'SPICY' deal with four hot dogs, bread and lot of thongs like ketchup and many more spice."
+  },
+  {
+    "id": 1,
+    "productName": "FRESH SPICY BURGER🔥!!",
+    "image": "🍔",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "2 🍔",
+    "price": "8.00",
+    "organic": false,
+    "description": "Burger with chicken,salad(onion,cocumber and etc.),and also some spices like kecthup, maionese"  },
+  {
+    "id": 2,
+    "productName": "CHICKEN🍖 SANDWITCH",
+    "image": "🥪",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥪",
+    "price": "5.50",
+    "organic": true,
+    "description": "Sandwich with chese slice and chicken with salad and spices .3 sandwich in only 5.50€"  },
+  {
+    "id": 3,
+    "productName": "BIEF PLATTER🍽️",
+    "image": "🌮",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🌮",
+    "price": "100",
+    "organic": true,
+    "description": "Platter with BBQ bief tasted good and salad and spices. 20 piece in 100€"  },
+  {
+    "id": 4,
+    "productName": "🔥MEGA DEAL🔥",
+    "image": "🍱",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "1 🍱",
+    "price": "81.00",
+    "organic": false,
+    "description": "Chicken Nuggets,Salad,Chicken Rice ball with one burger and all the spices in only 81€"  }
+]
